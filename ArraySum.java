@@ -14,7 +14,7 @@ public class ArraySum {
         for (int num : numbers) {
             sum += num;
         }
-        System.out.println("The sum of the array elements is: " + sum);
+        System.out.println("The sum is: " + sum);
         input.close();
     }
 }
